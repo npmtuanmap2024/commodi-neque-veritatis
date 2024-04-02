@@ -1,18 +1,54 @@
 {
-  "name": "@utilcode/simple-template-advanced",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@npmtuanmap2024/commodi-neque-veritatis",
+  "version": "v1.0.0",
+  "description": "Get the OSM relation id from a country code.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "@npmtuanmap2024/assumenda-officia-consequatur-in": "^v1.0.0",
+    "@npmtuanmap2024/eveniet-consectetur-fuga-magni": "^v1.0.0",
+    "@npmtuanmap2024/inventore-delectus-corporis": "^v1.0.0",
+    "@npmtuanmap2024/ipsam-tempora-nisi-omnis": "^v1.0.0",
+    "@npmtuanmap2024/maiores-eaque-est-tempora": "^v1.0.0",
+    "@npmtuanmap2024/psychic-dollop": "^1.0.0",
+    "@npmtuanmap2024/quos-id-labore": "^v1.0.0"
   },
-  "author": "",
+  "devDependencies": {
+    "ava": "^0.23.0",
+    "codecov": "^3.0.0",
+    "nyc": "^11.3.0",
+    "xo": "^0.19.0"
+  },
+  "author": "tuan149",
+  "keywords": [
+    "osm-countries",
+    "relation",
+    "relations",
+    "convert",
+    "converts",
+    "to",
+    "from",
+    "country",
+    "countries",
+    "get",
+    "code",
+    "which",
+    "alpha-3",
+    "ISO 3166-1",
+    "OSM",
+    "geo",
+    "OpenStreetMap"
+  ],
   "license": "MIT",
+  "xo": {
+    "space": true
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmtuanmap2024/commodi-neque-veritatis.git"
   },
-  "dependencies": {
-    "axios": "^1.6.8"
-  }
+  "homepage": "https://github.com/npmtuanmap2024/commodi-neque-veritatis/#readme",
+  "bugs": {
+    "url": "https://github.com/npmtuanmap2024/commodi-neque-veritatis/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
